@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Cooley-Tukey radix-2 FFT implemented in pure ArkTS"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Real-time FFT spectrum analyser for HarmonyOS wearables"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ArkTS FFT"
+    },
+    {
+      "name": "mic_permission_reason",
+      "value": "Capture live audio frames to transform into a frequency spectrum"
+    }
+  ]
+}
